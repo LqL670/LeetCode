@@ -5,6 +5,4 @@ git star!
 
 branch test
 
-this is new branch &
-
-2
+two branch confilct fixed!
